@@ -4,12 +4,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * @author Tal Livny livnytal@gmail.com user:livnyta1
- * ID: 316306091
- * @version 1.0
- * @since 27/04/2020
- */
 public class RectangleTest {
 
     @Before
